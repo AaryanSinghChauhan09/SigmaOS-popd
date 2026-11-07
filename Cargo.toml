@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos_popd"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS popd model"
+
+[lib]
+name = "sigmaos_popd"
+path = "src/lib.rs"
+
+[dependencies]
